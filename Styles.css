@@ -87,3 +87,7 @@ padding: 2rem;
     text-align: center;
     Color: var(--secondary-color);
 }
+.header-class{
+    background-color:darkcyan;
+    padding: 0.5rem;
+}
